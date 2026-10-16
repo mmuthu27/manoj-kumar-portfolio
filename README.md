@@ -14,13 +14,3 @@ This responsive portfolio is personalized from the uploaded résumé.
 
 MySQL, Kafka, Redis, and projects not described in the résumé are not represented as existing experience.
 
-## Publish free with GitHub Pages
-1. Sign in or create an account at https://github.com/
-2. Create a **public** repository named `manoj-kumar-portfolio`.
-3. Upload `index.html` to the repository root and commit it.
-4. Open **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and `/(root)`, then save.
-6. Wait for deployment. GitHub will show the public URL, usually:
-   `https://YOUR-GITHUB-USERNAME.github.io/manoj-kumar-portfolio/`
-
-The URL depends on your GitHub username and repository settings, and is not live until published.
